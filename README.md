@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to create code for whatever I am trying to accomplish at the current moment in my life's timeline. Keyword is random.
 - 🌱 I’m currently learning python but my brain is squirrel - like in nature.
 - 💞️ I don't know enough to collaborate but welcome help in pointing me in the right direction with the projects I am working on.
-- 📫 How to reach me ...
+- 📫 How to reach me technicallyjones@pm.me
 - ⚡ Fun fact: If you can't type something nice..then type something funny..
 
 <!---
